@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.32.2
 python_whois==0.7.3
 python_nmap==0.6.4
 colorama==0.4.4
